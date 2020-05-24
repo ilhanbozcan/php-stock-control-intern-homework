@@ -1,0 +1,19 @@
+.shop-item-image{
+    max-width: 40%;
+    max-height: 40%;
+}
+
+.filter{
+   display: inline-block;
+   text-align: center;
+}
+
+.sort{
+    
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.sort .form-check{
+    margin-left: 8%;
+}
